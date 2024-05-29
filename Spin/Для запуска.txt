@@ -1,0 +1,1 @@
+wish -f ispin.tcl
